@@ -7,10 +7,10 @@
       div.about-content
         h2.section-title About us
         div.title-div
-        p.section-text Lectus erat, consectetur eu sapien eget rhoncus consectetur sem. Proin cursus, dolor a mollis consectetur, risus dolor fermentum massa, a commodo elit dui sit amet risus. Maecenas ornare nisl a tortor ultrices bibendum. Nulla fermentum, metus quis sodales tristique, augue mauris molestie augue, non feugiat ligula neque nec felis. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus sed nibh dignissim, cursus tellus sit amet, ultrices mauris. Aliquam blandit est in eros
+        p.section-text We are a G5 Bumiputra Contractor experienced in Civil, Structural and Marine Construction, Renovation, Forensic Engineering, Structural Repair, Waterproofing, Slope Repair, Roadworks, Soil Investigation, Steel Works, Mechanical & Electrical Works
       v-row.w-10.ma-0
         v-col.stat(cols="6")
-          div.number 10
+          div.number 25
           div.text Years Established
         v-col.stat(cols="6")
           div.number 100

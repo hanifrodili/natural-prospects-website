@@ -5,7 +5,7 @@
       .main-header
         div
           .main-heading 
-            h1 Hanif Construction
+            h1 Natural Prospects
           .main-description
             p Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam lectus erat consectetur eu sapien eget, rhoncus consectetur sem.
           div.d-flex
@@ -47,7 +47,7 @@
 export default {
   name: 'Header',
   data: () => ({
-    phoneNum: '60134714296'
+    phoneNum: '60193175385'
   })
 }
 </script>

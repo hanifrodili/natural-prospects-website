@@ -10,7 +10,7 @@
 export default {
   name: 'Banner',
   data: () => ({
-    phoneNum: '60134714296'
+    phoneNum: '60193175385'
   })
 }
 </script>

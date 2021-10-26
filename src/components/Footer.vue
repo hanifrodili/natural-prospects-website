@@ -4,11 +4,11 @@
       v-col(cols="12" md="10")
         v-row
           v-col.text-center(cols="12")
-            p.mb-0 © 2021 Hanif Construction. All rights reserved.
+            p.mb-0 © 2021 Natural Prospects. All rights reserved.
       v-col(cols="12" md="2")
         v-row.mx-auto(style="width:fit-content")
           v-col.text-center(cols="6")
-            a(href="#" )
+            a(href="https://www.facebook.com/NaturalProspectsSB/" target="_blank" )
               v-icon.socmed-icon mdi-facebook
           v-col.text-center(cols="6")
             a(href="#" )
