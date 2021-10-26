@@ -1,4 +1,4 @@
-# my-page-two
+# natural-prospects-website
 
 ## Project setup
 ```
